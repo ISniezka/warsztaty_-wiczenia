@@ -1,0 +1,2 @@
+to jest treść w pierwszy.txt
+a to pierwszy po zedytowaniu
